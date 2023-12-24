@@ -32,7 +32,7 @@ def ml_models():
 
     st.write("""
 Conclusion: We see that we can achieve good prediction results with the XGB Classifier.
-The most important features are the Sleep Duration, Stress Level and Age
+The most important features are the Sleep Duration, Stress Level and Age. \n
 Countrary to what we could have thought, the Daily steps is not a very important feature for the prediction.
 Sleep Disorder is also interesting as it seems not to be the first indicator of sleep quality, this is confirmed by the graph : sleep quality vs age / sleep disorder vs age where we see that the pics of disorders does not correspond to the sleep quality inverse peaks:
              """)
