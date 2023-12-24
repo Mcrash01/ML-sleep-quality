@@ -20,10 +20,10 @@ Here is the EDA (Exploration Data Analysis for the dataset.)
     st.write("Sleep Quality vs Sleep Duration :")
     st.image('img/sleep_quality_vs_duration.png', width=500)
     st.write(
-    """"We can see something that looks like a linear relationship between sleep duration and sleep quality: the more we sleep, the better we sleep! Let's we what factors help us to have a better and longer sleep.""")
+    """We can see something that looks like a linear relationship between sleep duration and sleep quality: the more we sleep, the better we sleep! Let's we what factors help us to have a better and longer sleep.""")
 
 
-    st.write("relationship between solationship_with_sleep_quality.png'me features and sleep quality :")
+    st.write("relationship between features and sleep quality :")
     st.image('img/features_vs_sleep_quality.png', width=500)
     st.write(
     """
