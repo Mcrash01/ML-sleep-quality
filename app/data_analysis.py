@@ -43,7 +43,7 @@ We can observe that daily physical activity improves sleep quality, although the
     st.write("impact of career choice on sleep")
     st.image('img/occupation_vs_sleep_quality_duration.png', width=500)
     st.write("""
-Here it is interesting to see that the interquartile range of sleep quality and sleep duration varies greatly between occupations. This means that sleep quality and quantity are highly variable between different professions. This confirms the idea that our life/career choices greatly influence our sleep. I think it is interesting to correlate this with the stress level to see if thoose features are linked <br>
+Here it is interesting to see that the interquartile range of sleep quality and sleep duration varies greatly between occupations. This means that sleep quality and quantity are highly variable between different professions. This confirms the idea that our life/career choices greatly influence our sleep. I think it is interesting to correlate this with the stress level to see if thoose features are linked \n
 (ie job->stress level->sleep quality/duration)""")
     
     st.write("stress level vs occupation:")
